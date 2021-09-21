@@ -1,4 +1,5 @@
 # JS Music APP (AWIP)
+![superLint](https://github.com/cjvillar/js_music_electron/actions/workflows/super-linter.yml/badge.svg)
 ### Uses JS package: https://tonejs.github.io/ with Electron. 
 
 #### Notes:
