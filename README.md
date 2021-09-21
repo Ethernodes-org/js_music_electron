@@ -1,5 +1,5 @@
 # JS Music APP (AWIP)
-### Uses JS package: https://tonejs.github.io/
+### Uses JS package: https://tonejs.github.io/ with Electron. 
 
 #### Notes:
 #### To import Tone.js: import * as Tone from 'tone'
