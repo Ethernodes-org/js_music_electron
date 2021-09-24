@@ -6,7 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Uptime Action
-      # uses: srt32/uptime@958231f4d95c117f08eb0fc70907e80d0dfedf2b
       uses: srt32/uptime@v0.2.1
       with:
         # which url to hit
