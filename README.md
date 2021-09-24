@@ -1,5 +1,7 @@
 # JS Music APP (AWIP)
 ![superLint](https://github.com/cjvillar/js_music_electron/actions/workflows/super-linter.yml/badge.svg)
+![upTime - TEST](https://github.com/cjvillar/js_music_electron/actions/workflows/Uptime.yml/badge.svg) <-- Testing
+
 ### Uses JS package: https://tonejs.github.io/ with Electron. 
 
 #### Notes:
